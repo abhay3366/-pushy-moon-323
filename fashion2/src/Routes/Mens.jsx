@@ -1,8 +1,9 @@
-
+import {Navbar} from "../Component/Navbar"
 const Mens=()=>{
     return(
         <>
-            <h1>welcome to men</h1>
+            <Navbar />
+           <h1>askd;lf</h1>
         </>
     )
 }
